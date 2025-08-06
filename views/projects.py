@@ -26,3 +26,7 @@ st.write("""I started learning react and wanted to get some in-depth knowledge o
          \nI have posted this project on the GitHub please check it out. [Dictionary app](https://github.com/anonym0us-X/Dictionary-app)
         """)
 
+st.subheader("4. Portfolio using streamlit")
+st.write("""This project started as an curiosity but now I am so much into it I cant even express. I am not sure if this project does need some description as we are actually interacting vai the same so :) 
+        \nFor starters, I have created this whole project with complete python and streamlit. No HTML, CSS in this project, anything you see here is just plain core python code.
+        """)
